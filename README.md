@@ -39,4 +39,4 @@ The COVID-19 vaccination data was downloaded from the CDC site, the index was re
 The dataset contained cases and deaths as daily counts. To normalize by population, we joined the COVID-19 Cases and Deaths data with the estimated population data (by state) from the US Census. Additional processing for this data in the feature engineering section
 
 # Project Datafolio
-![TEAM_9_DATAFOLIO](https://user-images.githubusercontent.com/10517323/140938381-3b3e3867-ca4b-41ac-8e7b-c5a3877ea184.png)
+![TEAM_9_DATAFOLIO](https://user-images.githubusercontent.com/10517323/140938381-3b3e3867-ca4b-41ac-8e7b-c5a3877ea184.png) 
